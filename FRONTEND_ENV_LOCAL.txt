@@ -1,0 +1,4 @@
+# Copy this file to .env.local in the front directory
+# This configures the frontend to use the FastAPI backend on port 8001
+
+NEXT_PUBLIC_API_URL=http://localhost:8001
